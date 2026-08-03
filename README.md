@@ -80,12 +80,6 @@ No installation required.
 - Decrease quantity
 - Clear cart
 
-### Product Details
-- Product image
-- Rating
-- Description
-- Size selection
-- Color selection
 
 ### Promo Codes
 
